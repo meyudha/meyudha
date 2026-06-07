@@ -26,7 +26,7 @@ Seorang peneliti dan penggiat **DevSecOps** yang berfokus pada otomasi sistem, k
 ## 📬 Let's Connect
 Tertarik berkolaborasi atau sekadar diskusi tentang keamanan jaringan? Mari terhubung!
 - **Email:** meyudha132@gmail.com
-- **LinkedIn:** [Tautkan profil LinkedIn-mu di sini]
+- **LinkedIn:** [yudhaafrizarevi](https://www.linkedin.com/in/yudhaafrizarevi/)
 
 ---
 *“Security by design, automated by principle.”*
