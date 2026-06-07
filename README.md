@@ -13,7 +13,7 @@ Seorang peneliti dan penggiat **DevSecOps** yang berfokus pada otomasi sistem, k
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🚀 Proyek Unggulan
+## 📁 Proyek yang Pernah Dikerjakan
 - [**Network-Security-Monitoring**](https://github.com/meyudha/Network-Security-Monitoring): Sistem monitoring trafik jaringan yang mengintegrasikan analisis data Python, Docker, dan otomatisasi CI/CD.
 
 ## 📖 Fokus Belajar & Minat
